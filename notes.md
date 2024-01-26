@@ -1,1 +1,1 @@
-This is a repo fo my notes as I learn Web Development skills.
+This is a repo for my notes as I learn Web Development skills.
