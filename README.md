@@ -41,3 +41,10 @@ I will use the required technologies in these ways.
 * __Login__ - Register and login users. Credentials securely stored in database. Can't save or retrieve items unless authenticated.
 * __WebSocket__ - A motivational quote will be hooked up to the about page. 
 * __React__ - Application ported to use the React web framework.
+
+# Notes for Deliverables
+### HTML Deliverable
+I set up the different pages of my applcation, including the login (index.html), create, dice, saved, and about pages. 
+I incldued placeholders for the technologies I will need to use later in the semester, as well as the username once someone has logged in.
+There are links between the pages and clicking the login button takes you automatically to the saved html page.
+There are also many placeholders for elements that will be implemented in the CSS and JS fases of the project (dice, saved boards, and board creation elements).
